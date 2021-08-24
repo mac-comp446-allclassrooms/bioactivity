@@ -1,5 +1,3 @@
-# bioactivity
-
 Comp 446: Bio Activity
 ====
 
